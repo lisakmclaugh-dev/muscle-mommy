@@ -1,0 +1,10 @@
+{
+  "name": "Muscle Mommy",
+  "short_name": "Muscle Mommy",
+  "description": "A soft, simple strength-training tracker.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#f8c8d8",
+  "icons": []
+}
